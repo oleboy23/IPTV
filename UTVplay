@@ -1,0 +1,19 @@
+{
+  "name": "UTV",
+  "author": "BadBoyBangBon",
+  "info": "online",
+  "image": "https://poojaguptaandcompany.com/images/logo/32.png",
+  "url": "",
+  "groups": [
+    {
+      "name": "FreeTV",
+      "image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+      "url": "https://pastebin.com/raw/gFHSk43V"
+    },
+    {
+      "name": "Movies Channel",
+      "image": "https://images.seeklogo.com/logo-png/14/1/tv-movie-logo-png_seeklogo-143466.png",
+      "url": "https://pastebin.com/raw/MAp7GQJJ"
+    }
+  ]
+}
