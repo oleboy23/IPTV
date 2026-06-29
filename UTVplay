@@ -6,18 +6,23 @@
   "url": "https://raw.githubusercontent.com/oleboy23/IPTV/refs/heads/main/UTVplay",
   "groups": [
     {
-      "name": "FreeTV",
-      "image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+      "name": "live tv",
+      "image": "https://emby.media/community/uploads/monthly_2025_08/livetv.thumb.png.f86af370194387178548e6525c71d3d2.png",
       "url": "https://pastebin.com/raw/gFHSk43V"
     },
     {
-      "name": "Movies Channel",
-      "image": "https://images.seeklogo.com/logo-png/14/1/tv-movie-logo-png_seeklogo-143466.png",
+      "name": "kid's tv",
+      "image": "https://emby.media/community/uploads/monthly_2025_08/kidstv.thumb.png.19197087041d46db1069cc1da7cd8a8c.png",
+      "url": "https://pastebin.com/raw/4duWqen8"
+    },
+    {
+      "name": "movies",
+      "image": "https://emby.media/community/uploads/monthly_2025_08/movies.thumb.png.c4eb3b1bf45d837f14fe5460257f85d6.png",
       "url": "https://pastebin.com/raw/MAp7GQJJ"
     },
     {
-      "name": "Sports Channel",
-      "image": "https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png",
+      "name": "exercise",
+      "image": "https://emby.media/community/uploads/monthly_2025_08/exercise.thumb.png.6032076553afc7a484f62723876382fa.png",
       "url": "https://pastebin.com/raw/zwQWWd6r"
     }
   ]
