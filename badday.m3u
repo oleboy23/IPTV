@@ -24,14 +24,14 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716132546006600.png" group-title="ฟรีทีวี",NBT HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716132617006744.png" group-title="ฟรีทีวี",ThaiPBS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.thaipbs.or.th/live
+https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135449006774.png" group-title="ฟรีทีวี",ThairathTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
