@@ -230,21 +230,6 @@ https://github.com/oleboy23/i-sports/raw/refs/heads/main/skymainev.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/oleboy23/i-sports/raw/refs/heads/main/spdfussball.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/astropl.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",Astro Premier League2
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/astropl2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro Grandstand
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/astrogt.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn-1.webcatalog.io/catalog/fifa-plus/fifa-plus-icon-filled-256.webp?v=1714774340917",FIFA+
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
