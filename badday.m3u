@@ -235,6 +235,31 @@ https://github.com/oleboy23/i-sports/raw/refs/heads/main/skymainev.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/oleboy23/i-sports/raw/refs/heads/main/spdfussball.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo-700x394.png",ESPN
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/i-sports/raw/refs/heads/main/espn.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2-768x432.png",ESPN2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/i-sports/raw/refs/heads/main/espn2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2019/01/fs1-775xx.png",FS1
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/i-sports/raw/refs/heads/main/fsports1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2020/02/FS2-775xx.png",FS2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/i-sports/raw/refs/heads/main/fsports2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://epg.iptvx.one/picons/fox-soccer-plus-us.png",Fox Soccer +
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/i-sports/raw/refs/heads/main/fsoccer.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn-1.webcatalog.io/catalog/fifa-plus/fifa-plus-icon-filled-256.webp?v=1714774340917",FIFA+
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
