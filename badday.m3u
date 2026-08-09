@@ -94,7 +94,7 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 group-title="ดูการ์ตูน" tvg-logo="https://i.ibb.co/qYGcDkdc/logo-fuck-toon.png",FuckIDTOON
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 group-title="ดูการ์ตูน" tvg-id="" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134513006646.png",CARTOON NETWORK (TH)
@@ -118,20 +118,25 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 #EXTINF:-1 group-title="บันเทิงและสารคดี" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=
 http://49.0.64.96:8007/IZAA
 
 #EXTINF:-1 group-title="บันเทิงและสารคดี" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=
 http://49.0.64.96:8007/H-Channel
 
 #EXTINF:-1 group-title="บันเทิงและสารคดี" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",FuckIDSeries
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=
 http://49.0.64.96:8007/SERIES
 
 #EXTINF:-1 group-title="บันเทิงและสารคดี" tvg-logo="https://i.ibb.co/wFSYqgpG/logo-fuckseries.png",FuckIDSeries II
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:http-user-agent=
 http://49.0.64.96:8007/PING
+
+#EXTINF:-1 group-title="บันเทิงและสารคดี" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",ch8_thailand
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="บันเทิงและสารคดี" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134635006505.png",Asian-Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
