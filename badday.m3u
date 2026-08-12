@@ -235,6 +235,16 @@ https://github.com/oleboy23/i-sports/raw/refs/heads/main/skymainev.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/oleboy23/i-sports/raw/refs/heads/main/spdfussball.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://assets.bharian.com.my/images/articles/4feb-astroepl.transformed.jpg",astro premier league
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/i-sports/raw/refs/heads/main/astropl.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://assets.bharian.com.my/images/articles/4feb-astroepl.transformed.jpg",astro premier league 2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/i-sports/raw/refs/heads/main/astropl2.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo-700x394.png",ESPN
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
