@@ -200,6 +200,41 @@ https://cdn1.googlecdnforstreaming.live/live/playsportsfootball2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/playsportsfootball3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport4
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport5
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport6 
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport7
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport8
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport9
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://metallife.com/wp-content/uploads/2021/09/bein_sports_logos.jpg",bein sports xtra
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn.madoball.com/upload/7424.jpg",bein1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -240,26 +275,6 @@ http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTVLCOPT:http-referrer=
 http://23.237.104.106:8080/DAZN_5/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://media.info/l/o/6/6752.1507600241.png",Sky Sports Football 
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/skyfootball.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png",Sky Sports Premier League
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/skypl.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://dn710708.ca.archive.org/0/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",Sky Sports Main Event
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/skymainev.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://sportsbusiness.at/wp-content/uploads/gs-logo-slider/thumbs/Sportdigital_Fu%C3%9Fball-qe4zrr7715gcrcf98flsb9chyb1zvoun5nr0bynr0g.jpg",Sportdigital Fußball
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/spdfussball.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://assets.bharian.com.my/images/articles/4feb-astroepl.transformed.jpg",astro premier league
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -270,25 +285,10 @@ https://github.com/oleboy23/i-sports/raw/refs/heads/main/astropl.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/oleboy23/i-sports/raw/refs/heads/main/astropl2.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://logos-world.net/wp-content/uploads/2020/01/ESPN-Logo-700x394.png",ESPN
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/espn.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2-768x432.png",ESPN2
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/espn2.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn-1.webcatalog.io/catalog/fifa-plus/fifa-plus-icon-filled-256.webp?v=1714774340917",FIFA+
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://metallife.com/wp-content/uploads/2021/09/bein_sports_logos.jpg",bein sports xtra
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=
-https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="sky store" tvg-logo="https://image.roku.com/developer_channels/prod/0465716048ffb459a0ef173f2c3270d533f72b6d4ba58064524d8098f9d223b1.png",sky store 1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
