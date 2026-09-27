@@ -185,70 +185,65 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport1
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport2
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport3
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport4
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport5
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport6 
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport7
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport8
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2018/06/Screen-Shot-2561-06-29-at-08.48.02.png",playsport9
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/playsportsfootball9/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://metallife.com/wp-content/uploads/2021/09/bein_sports_logos.jpg",bein sports xtra
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn.madoball.com/upload/7424.jpg",bein1
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://iconape.com/wp-content/files/es/285159/png/bein-sports-logo.png",bein1
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn.madoball.com/upload/7423.jpg",bein2
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://iconape.com/wp-content/files/es/285159/png/bein-sports-logo.png",bein2
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn.madoball.com/upload/7422.jpg",bein3
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://iconape.com/wp-content/files/es/285159/png/bein-sports-logo.png",bein3
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FS 1 - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FS 2 - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FOX SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FOX SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FOX DEPORTES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FOX SPORTS USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=482d41282412c2a36faae9c15d42b462:88e6ef62e9cfb3dd7f28686844b7cee2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xr97sgrflz/out/v1/e4a043f7cbcf4d308e7c5439c320c8aa/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FOX SPORTS PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png",DAZN_1 
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
