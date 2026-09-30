@@ -40,8 +40,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20251224100714006705.png" group-title="ฟรีทีวี",PPTV HD
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
-https://live.livedoomovies.com:4433/live/02_PPTVHD_720p/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/IPTV/raw/refs/heads/main/pptv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716133045006544.png" group-title="ฟรีทีวี",AmarinTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
