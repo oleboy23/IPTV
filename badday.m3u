@@ -220,6 +220,21 @@ https://cdn1.googlecdnforstreaming.live/live/bein2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
 https://cdn1.googlecdnforstreaming.live/live/bein3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://dn710708.ca.archive.org/0/items/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",sky sports main event
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/sports/raw/refs/heads/main/mainevent.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://images.seeklogo.com/logo-png/45/1/sky-sport-premier-league-logo-png_seeklogo-456293.png",sky sports premier league
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/sports/raw/refs/heads/main/premier.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://dn711003.ca.archive.org/0/items/SkySportsFootball_201708/sky%20sports%20football.png",sky sports football
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/oleboy23/sports/raw/refs/heads/main/football.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" group-title="สปอร์ตแชนแนล", FS 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
