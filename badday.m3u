@@ -160,6 +160,11 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/9384.ts
 #EXTVLCOPT:http-referrer=
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23270.ts
 
+#EXTINF:-1 tvg-id="" group-title="บันเทิงและสารคดี" tvg-logo="https://iili.io/j5HfxS.png",MNX HD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1020230.ts
+
 #EXTINF:-1 tvg-id="" group-title="บันเทิงและสารคดี" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
