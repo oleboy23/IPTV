@@ -152,13 +152,13 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
 #EXTINF:-1 tvg-id="" group-title="บันเทิงและสารคดี" tvg-logo="https://pluspng.com/img-png/star-movies-png--594.png",Star Movies HD
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/IPTV/raw/refs/heads/main/stmhd.m3u8
+#EXTVLCOPT:http-referrer=
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/9384.ts
 
 #EXTINF:-1 tvg-id="" group-title="บันเทิงและสารคดี" tvg-logo="https://pluspng.com/img-png/star-movies-png-http-www-indigital-co-in-upload-channellogo-channellogo-636216502699861521-png-407.png",Star Movies HD Select
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/IPTV/raw/refs/heads/main/stmse.m3u8
+#EXTVLCOPT:http-referrer=
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23270.ts
 
 #EXTINF:-1 tvg-id="" group-title="บันเทิงและสารคดี" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
