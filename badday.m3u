@@ -320,15 +320,20 @@ http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTVLCOPT:http-referrer=
 http://23.237.104.106:8080/DAZN_5/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://assets.bharian.com.my/images/articles/4feb-astroepl.transformed.jpg",astro premier league
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",thai league+
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/astropl.m3u8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://assets.bharian.com.my/images/articles/4feb-astroepl.transformed.jpg",astro premier league 2
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",thai league++
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/oleboy23/i-sports/raw/refs/heads/main/astropl2.m3u8
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://competition.tl.prod.c0d1um.io/media/tournament/logo/20260715-115220-90c905a4-3063-432e-9ae6-bb7fc7ed6205.png",thai league+++
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+https://cdn1.googlecdnforstreaming.live/live/playsportsfootball3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="สปอร์ตแชนแนล" tvg-logo="https://cdn-1.webcatalog.io/catalog/fifa-plus/fifa-plus-icon-filled-256.webp?v=1714774340917",FIFA+
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
